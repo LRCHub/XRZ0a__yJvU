@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ですく・ぽっぷ！",
+  "base_artist": "前髪ぱっつん少年",
+  "createdAt": "2026-03-08T02:41:13.458899Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ですく・ぽっぷ!",
+      "artist": "前髪ぱっつん少年",
+      "has_synced": false,
+      "path": "select/pl_01_ですく・ぽっぷ!_前髪ぱっつん少年.txt"
+    }
+  ]
+}
